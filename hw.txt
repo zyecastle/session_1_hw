@@ -1,22 +1,22 @@
 [1차 세션 과제] Git & GitHub
 
-- 이름:
-- 파트: 
+- 이름: 조예성
+- 파트: 백엔드
 
 다음 문제의 답을 작성해주세요.
 
 Q1. pull requests는 조직 레포에서 개인 레포로 보내야 한다. (y/n)
-A.
+A. n 
 
 Q2. commit할 파일들이 예비로 저장되어 있는 공간의 이름은?
-A.
+A. staging
 
 Q3. 조직 레포(upstream)에서 업데이트된 코드를를 로컬로 가져오고 싶다. 어떤 명령어를 사용해야 할까?
-A.
+A. git pull upstream main
 
 Q4. 오픈소스 협업으로 프로젝트를 진행한다고 할때, fork는 팀장만 해야한다. (y/n)
-A.
+A. n 
 
 Q5. 변경 사항이 있는 모든 파일을 "과제 끝"이라는 메시지와 함께 원격 개인 레포(origin)으로 올리고 싶다. 어떤 명령어를 사용해야 할까? 
 (3개의 명령어를 전부 답해주세요.)
-A.
+A. git add . , git commit -m "과제 끝" , git push origin main
